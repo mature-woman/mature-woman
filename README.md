@@ -3,7 +3,7 @@
 ## English
 Programmer, anarchist, vegetarian<br>
 Born in **Khabarovsk**, on a january morning on the 26th day of 2001 year<br>
-Member of the **Svoboda** organization and am in the distribution of **Dreamers** (siberian forest)<br>
+Member of the **Svoboda** organization and in the distribution of **Dreamers** (siberian forest)<br>
 Developed viruses, was **kidnapped by Wagner PMC** in 2022, **under surveillance by the Federal Secure Service** since 2018<br>
 <br>
 I have big plans for the **HARMONY** project<br>
