@@ -20,7 +20,9 @@ Be with me and help me fuck the capitalists
 Имею большие планы на проект **ГАРМОНИЯ**<br>
 Люблю топоры, ножи, грузовики, девочек в юбках и спать в лесу<br>
 Уважаю своих друзей, ценю советы мужиков, учусь каждый день<br>
-Будь со мной и помогай мне ебашить капиталистов
+Будь со мной и помогай мне ебашить капиталистов<br>
+<br>
+<small><i>i would really like to put my cool photography here in the future</i></small>
 
 # Contacts
 Mail: arsen@mirzaev.sexy<br>
