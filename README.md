@@ -1,7 +1,5 @@
 <img src="images/header.gif" width="100%" />
 
-# Arsen Mirzaev Tatyano-Muradovich
-
 ## English
 Programmer, anarchist, vegetarian<br>
 Born in **Khabarovsk**, on a january morning on the 26th day of 2001<br>
