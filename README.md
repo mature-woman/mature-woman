@@ -33,6 +33,7 @@ Repositories: [git.mirzaev.sexy](https://git.mirzaev.sexy), [github.com](https:/
 Svoboda: [svoboda.works](https://svoboda.works) (2025)<br>
 LibSoc: [libsoc.org](https://libsoc.org) (will be repaired soon)<br>
 NotChat: [not.chat](https://not.chat) (2025)<br>
+Repression: [repression.mirzaev.sexy](https://repression.mirzaev.sexy) (article) (can be screamers)<br>
 <br>
 All my projects are under the [WTFPL](http://www.wtfpl.net) license<br>
 I sell them to capitalist fools, but you can get them for free<br>
