@@ -8,11 +8,11 @@
 
 <b>[SVOBODA](https://svoboda.works)</b>&ensp;<b>[MIRZAEV](https://mirzaev.sexy)</b>&ensp;<b>[KODORVAN](https://kodorvan.tech)</b></br>
 
-2001 → 2012&emsp;Дальний Восток&emsp;<b>Хабаровск</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;<small>Far East, Khabarovsk</small></br>
-2012 → 2016&emsp;Дальний Восток&emsp;<b>Комсомольск на амуре</b>&emsp;&emsp;&nbsp;&nbsp;<small>Far East, Komsomolsk on amur</small></br>
-2016 → 2023&emsp;Дальний Восток&emsp;<b>Хабаровск</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;<small>Far East, Khabarovsk</small></br>
-2023 → 2025&emsp;Сибирь&emsp;&emsp;&emsp;&emsp;&ensp;&thinsp;&thinsp;<b>Дистрибутив Мечтатели</b>&emsp;&emsp;<small>Siberia, Dreamers distribution</small></br>
-2025 → 2026&emsp;Пермский край&emsp;&nbsp;<b>Пермь</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Permskiy kray, Perm</small></br>
+2001 → 2012&emsp;Дальний Восток&emsp;<b>Хабаровск</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;<small>Far East, Khabarovsk</small></br>
+2012 → 2016&emsp;Дальний Восток&emsp;<b>Комсомольск на амуре</b>&emsp;&nbsp;&nbsp;<small>Far East, Komsomolsk on amur</small></br>
+2016 → 2023&emsp;Дальний Восток&emsp;<b>Хабаровск</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;<small>Far East, Khabarovsk</small></br>
+2023 → 2025&emsp;Сибирь&emsp;&emsp;&emsp;&emsp;&ensp;&thinsp;&thinsp;<b>Дистрибутив Мечтатели</b>&emsp;<small>Siberia, Dreamers distribution</small></br>
+2025 → 2026&emsp;Пермский край&emsp;&nbsp;<b>Пермь</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Permskiy kray, Perm</small></br>
 
 <img src="images/me_2025.jpg" height="400px" alt="Arsen Mirzaev Tatyano-Muradovich"/><img src="images/2025-12-26_11-23-02_sperma.jpg" height="400px" alt="Arsen Mirzaev Tatyano-Muradovich"/></br>
 <small>
