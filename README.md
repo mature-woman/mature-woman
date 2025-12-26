@@ -1,17 +1,14 @@
 <b>Mail:</b> arsen@mirzaev.sexy</br>
 <b>Telegram:</b> [@free_labubistan](https://t.me/free_labubistan)</br>
-<b>Telegram journal:</b> [@from_mirzaev](https://t.me/from_mirzaev) <small><i>(blog)</i></small></br>
+<b>Telegram journal:</b> [@from_mirzaev](https://t.me/from_mirzaev)&ensp;<small>(blog)</small></br>
 
-<small>Если ты хочешь со мной познакомиться, то сделай это вне сети, не приноси с собой электронные устройства</small></br>
-<small><i>If you want to meet me, do it offline, do not bring electronic devices with you</i></small>
+<b>[SVOBODA](https://svoboda.works)</b>&ensp;<b>[MIRZAEV](https://mirzaev.sexy)</b>&ensp;<b>[KODORVAN](https://kodorvan.tech)</b></br>
 
-<b>[SVOBODA](https://svoboda.works)</b> <b>[MIRZAEV](https://mirzaev.sexy)</b> <b>[KODORVAN](https://kodorvan.tech)</b></br>
-
-<small>2001-2012</small> <b>Хабаровск</b> <small><i>(Khabarovsk)</i></small></br>
-<small>2012-2016</small> <b>Комсомольск на амуре</b> <small><i>(Komsomolsk-on-amur)</i></small></br>
-<small>2016-2023</small> <b>Хабаровск</b> <small><i>(Khabarovsk)</i></small></br>
-<small>2023-2025</small> <b>Сибирь, Дистрибутив Мечтатели</b> <small><i>(Siberia, Dreamers distribution)</i></small></br>
-<small>2025-2026</small> <b>Пермь</b> <small><i>(Perm)</i></small></br>
+2001 → 2012&emsp;<small>Дальний Восток</small>&emsp;<b>Хабаровск</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;<small>Far East, Khabarovsk</small></br>
+2012 → 2016&emsp;<small>Дальний Восток</small>&emsp;<b>Комсомольск на амуре</b>&emsp;&emsp;&nbsp;&nbsp;<small>Far East, Komsomolsk on amur</small></br>
+2016 → 2023&emsp;<small>Дальний Восток</small>&emsp;<b>Хабаровск</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;<small>Far East, Khabarovsk</small></br>
+2023 → 2025&emsp;<small>Сибирь</small>&emsp;&emsp;&emsp;&emsp;&thinsp;<b>Дистрибутив Мечтатели</b>&emsp;&emsp;<small>Siberia, Dreamers distribution</small></br>
+2025 → 2026&emsp;<small>Пермский край</small>&emsp;&nbsp;<b>Пермь</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Permskiy kray, Perm</small></br>
 
 <b>Полное имя:</b> Арсен Мирзаев Татьяно-Мурадович</br>
 <small><b>Full name:</b> Arsen Mirzaev Tatyano-Muradovich (he/him)</small>
