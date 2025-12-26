@@ -5,7 +5,7 @@
 <small>Если ты хочешь со мной познакомиться, то сделай это вне сети, не приноси с собой электронные устройства</small></br>
 <small><i>If you want to meet me, do it offline, do not bring electronic devices with you</i></small>
 
-<b>[SVOBODA](https://svoboda.works)</b> <b>[KODORVAN](https://kodorvan.tech)</b> <b>[MIRZAEV](https://mirzaev.sexy)</b></br>
+<b>[SVOBODA](https://svoboda.works)</b> <b>[MIRZAEV](https://mirzaev.sexy)</b> <b>[KODORVAN](https://kodorvan.tech)</b></br>
 
 <small>2001-2012</small> <b>Хабаровск</b> <small><i>(Khabarovsk)</i></small></br>
 <small>2012-2016</small> <b>Комсомольск на амуре</b> <small><i>(Komsomolsk-on-amur)</i></small></br>
