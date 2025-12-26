@@ -34,8 +34,7 @@
 * Все данные мной обещания я соблюдаю и возражений к ним не имею<br>
 <small>I keep all the promises i made and have no objections to them</small></br>
 
-<i>На меня периодически пишут доносы самые разные <b>ультраправые</b> сообщества активистов и <b>псевдо-патритов</b>, поэтому я вынужден оставлять этот позорный раздел здесь</i></br>
-<i>Не для того, чтобы возвысить себя над остальными - это отвратительная ситуация из-за которой я потерял миллионы рублей</i></br>
+<i>На меня периодически пишут доносы самые разные <b>ультраправые</b> сообщества активистов и <b>псевдо-патритов</b>, поэтому я вынужден оставлять этот позорный раздел здесь.</i> <i>Не для того, чтобы возвысить себя над остальными - это отвратительная ситуация из-за которой я потерял миллионы рублей</i></br>
 
 <small><i>I am periodically denounced by various <b>ultraright</b> activist communities and <b>pseudo-patriots</b>, so i am forced to leave this shameful section here</i></small></br>
 <small><i>Not to elevate myself above others - this is a disgusting situation because of which i lost millions of rubles</i></small>
