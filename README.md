@@ -19,3 +19,7 @@
 <b>1. </b> 2025 autumn&emsp;Siberia, Dreamers distribution</br>
 <b>2. </b> 2025.12.26&emsp;&emsp;Perm
 </small></br>
+
+
+<b><sub>[Письмо для русских спецслужб](/federals/russian.md)</sub></b></br>
+<b><sub>[The letter for russian special forces](/federals/english.md)</sub></b>
