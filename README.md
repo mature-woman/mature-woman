@@ -5,7 +5,7 @@
 <b>Mail:</b> arsen@mirzaev.sexy</br>
 <b>Telegram:</b> [@free_labubistan](https://t.me/free_labubistan)</br>
 <b>Telegram journal:</b> [@from_mirzaev](https://t.me/from_mirzaev)&ensp;<small>(blog)</small></br>
-<b>Repositories:</b> [mirzaev](https://github.com/mature-woman) <small><i>([mirror](https://github.com/mature-woman))</i></small>
+<b>Repositories:</b> [mirzaev](https://git.svoboda.works/mirzaev) <small><i>([mirror](https://github.com/mature-woman))</i></small>
 
 <b>[SVOBODA](https://svoboda.works)</b>&ensp;<b>[MIRZAEV](https://mirzaev.sexy)</b>&ensp;<b>[KODORVAN](https://kodorvan.tech)</b></br>
 
