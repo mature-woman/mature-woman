@@ -15,14 +15,13 @@
 <b>2. </b> 2025.12.26&emsp;&emsp;Perm
 </small></br>
 
+<img src="images/2026_01_02_path_compressed.jpg" width="550em" alt="Mirzaev path 2026"/></br>
 2001 → 2012&emsp;Дальний Восток&emsp;<b>Хабаровск</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;<small>Far East, Khabarovsk</small></br>
 2012 → 2016&emsp;Дальний Восток&emsp;<b>Комсомольск на амуре</b>&emsp;&nbsp;&nbsp;<small>Far East, Komsomolsk on amur</small></br>
 2016 → 2023&emsp;Дальний Восток&emsp;<b>Хабаровск</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;<small>Far East, Khabarovsk</small></br>
 2023 → 2023&emsp;Сибирь&emsp;&emsp;&emsp;&emsp;&ensp;&thinsp;&thinsp;<b>Красноярск</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;<small>Siberia, Krasnoyarsk</small></br>
 2023 → 2025&emsp;Сибирь&emsp;&emsp;&emsp;&emsp;&ensp;&thinsp;&thinsp;<b>Дистрибутив Мечтатели</b>&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;<small>Siberia, Dreamers distribution</small></br>
 2025 → 2026&emsp;Пермский край&emsp;&nbsp;<b>Пермь</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&ensp;&thinsp;&thinsp;&thinsp;<small>Permskiy kray, Perm</small></br>
-
-<img src="images/2026_01_02_path_compressed.jpg" width="550em" alt="Mirzaev path 2026"/></br>
 
 <b><sub>[Письмо для русских спецслужб](/federals/russian.md)</sub></b></br>
 <b><sub>[The letter for russian special forces](/federals/english.md)</sub></b>
