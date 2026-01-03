@@ -15,7 +15,7 @@
 <b>2. </b> 2025.12.26&emsp;&emsp;Perm
 </small></br>
 
-<a href="https://nakarte.me/#m=3/52.10651/54.49219&l=O&nktl=D_gaVaibDRFk8wgYLvo42g"><img src="images/2026_01_02_path_small_compressed.jpg" width="538px" alt="Mirzaev path 2026"/></a>
+<a href="https://nakarte.me/#m=3/52.10651/54.49219&l=O&nktl=D_gaVaibDRFk8wgYLvo42g"><img src="images/2026_01_02_path_compressed.jpg" width="538px" alt="Mirzaev path 2026"/></a>
 </br>
 2001 → 2012&emsp;Дальний Восток&emsp;<b>Хабаровск</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;<small>Far East, Khabarovsk</small></br>
 2012 → 2016&emsp;Дальний Восток&emsp;<b>Комсомольск на амуре</b>&emsp;&nbsp;&nbsp;<small>Far East, Komsomolsk on amur</small></br>
